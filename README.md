@@ -1,10 +1,10 @@
-# ML_CRAFT: Character Region Awareness for Text Detection
+## ML_CRAFT: Character Region Awareness for Text Detection
 
 This github repository is a Pytorch reimplementation of CRAFT model for text detection in natural images.
-Paper: [CRAFT](https://arxiv.org/abs/1904.01941)
-Supplementary: [Video](https://www.youtube.com/watch?v=HI8MzpY8KMI&feature=youtu.be)
-Authors: **[Youngmin Baek](mailto:youngmin.baek@navercorp.com), Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee.** from Clova AI Research, NAVER Corp.
-About me: [Loi Nguyen Van](https://github.com/lloydnguyen96/) from DSLab, HUST.
+* Paper: [CRAFT](https://arxiv.org/abs/1904.01941)
+* Supplementary: [Video](https://www.youtube.com/watch?v=HI8MzpY8KMI&feature=youtu.be)
+* Authors: **[Youngmin Baek](mailto:youngmin.baek@navercorp.com), Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee** from Clova AI Research, NAVER Corp.
+* About me: [Loi Nguyen Van](https://github.com/lloydnguyen96/) from DSLab, HUST.
 
 ## Description
 
